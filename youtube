@@ -1,0 +1,12 @@
+index.html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
+    <meta http-equiv="refresh" content="0; url=https://www.youtube.com/watch?v=5gqXS6Qp-Q0&t=263s">
+  </head>
+  <body>
+    <p>Redirecting to the video...</p>
+  </body>
+</html>
